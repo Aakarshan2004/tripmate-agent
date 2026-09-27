@@ -4,3 +4,5 @@ langchain-groq
 python-dotenv
 pydantic
 requests
+fastapi
+uvicorn[standard]
